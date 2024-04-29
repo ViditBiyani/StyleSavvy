@@ -3,7 +3,8 @@
 Install: 
 1. Make sure you have Python installed  
 2. Then on your terminal do `pip install -r requirements.txt`
-3. Then run `python server.py` to start the backend 
+3. Navigate to the backend folder
+4. Then run `python server.py` to start the backend 
 
 To start the frontend: 
 1. Open your terminal and make sure you have node.js installed 
