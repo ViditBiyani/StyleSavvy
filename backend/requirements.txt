@@ -5,7 +5,6 @@ pymysql
 requests
 beautifulsoup4
 selenium
-hashlib
 torch
 torchvision
 segmentation-models-pytorch
