@@ -1,5 +1,5 @@
 # Style-Savvy
-
+Application Demo: https://youtu.be/wFeF4KocW64
 Install: 
 1. Make sure you have Python installed  
 2. Then on your terminal do `pip install -r requirements.txt`
